@@ -6,11 +6,9 @@ I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Larav
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2022, I idid a **Programming Course** and learnt **HTML**, **CSS**, **JAVASCRIPT**, **PHP** and **LARAVEL**. I also got started with [**Freelancing**](https://www.fiverr.com/m_saifullah3) recently.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **watching movies**, **playing cricket** and **sketching**.
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
-
-✈️ I love **traveling** too. I have been on solo trips to **Bhutan** in _2018_ and to **Hyderabad, India** in _2021_.
+✈️ I love **traveling** too. I have been on trips to **Swat**, **Lahore**, **Naran** and **Islamabad**. Although most of them are local trips they were fun none the less.  
 
 ## 🛠️ Skills
 
