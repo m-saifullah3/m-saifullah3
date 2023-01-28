@@ -28,11 +28,9 @@ I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Larav
 
 ### Languages
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=MySQL&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Front-End Development
 
@@ -44,9 +42,8 @@ I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Larav
 ### Back-End Development
 
 ![PHP](https://img.shields.io/badge/PHP-0071C5?style=for-the-badge&logo=php&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=php&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/LARAVEL-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
-![NODEJS](https://img.shields.io/badge/NODEJS-E34F26?style=for-the-badge&logo=nodejs&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/LARAVEL-0071C5?style=for-the-badge&logo=laravel&logoColor=white)
+![NODEJS](https://img.shields.io/badge/NODEJS-0071C5?style=for-the-badge&logo=nodejs&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
