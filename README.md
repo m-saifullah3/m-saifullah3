@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Laravel Projects**) and a [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Fiverr_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
+I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Laravel Projects**) and a [**Freelancer**](https://www.fiverr.com/freelancers/~01c12e516ee1d35044) on _Fiverr_. I am also doing A Level in **Computer Science** which will be completed in mid-2023.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.
 
@@ -113,7 +113,7 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
-[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
+[![fiverr](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)]( https://www.fiverr.com/m_saifullah3)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-saifullah-491b78262)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/m-saifullah3)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tapajyoti-bose.medium.com/)
