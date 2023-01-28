@@ -47,9 +47,9 @@ I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Larav
 
 ## 🖥️ Workspace Setup
 
-![i7-4th-gen](https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![i7-4th-gen](https://img.shields.io/badge/Intel-Core_i7_4th-6FDA44?style=for-the-badge&logo=intel&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_10-6FDA44?style=for-the-badge&logo=windows&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-6FDA44?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 🔗 Links
 
