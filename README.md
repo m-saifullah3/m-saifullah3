@@ -33,15 +33,13 @@ I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Larav
 ![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=MySQL&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Front-End Development
 
 ![html](https://img.shields.io/badge/HTML-28B6F6?style=for-the-badge&logo=html5&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![css](https://img.shields.io/badge/CSS-28B6F6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-28B6F6?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-28B6F6?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Back-End Development
 
