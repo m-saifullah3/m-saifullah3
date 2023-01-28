@@ -37,7 +37,7 @@ I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Larav
 
 ### Front-End Development
 
-![html](https://img.shields.io/badge/HTML5-28B6F6?style=for-the-badge&logo=html5&logoColor=white
+![html](https://img.shields.io/badge/HTML-28B6F6?style=for-the-badge&logo=html5&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
