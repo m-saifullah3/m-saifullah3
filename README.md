@@ -43,6 +43,8 @@ I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Larav
 ### Back-End Development
 
 ![PHP](https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/LARAVEL-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
+![NODEJS](https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=nodejs&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
