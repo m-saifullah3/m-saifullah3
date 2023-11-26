@@ -23,13 +23,12 @@ Outside the world of tech too, I enjoy pushing myself to develop new skills. My 
 ![html](https://img.shields.io/badge/HTML-28B6F6?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-28B6F6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-28B6F6?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-28B6F6?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Back-End Development
 
 ![PHP](https://img.shields.io/badge/PHP-0071C5?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-0071C5?style=for-the-badge&logo=laravel&logoColor=white)
-![NODEJS](https://img.shields.io/badge/NODEJS-0071C5?style=for-the-badge&logo=Node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0071C5?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
