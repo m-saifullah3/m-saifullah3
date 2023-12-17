@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Laravel Projects**) and a [**Freelancer**](https://www.fiverr.com/freelancers/~01c12e516ee1d35044) on _Fiverr_. I am also doing A Level in **Computer Science** which will be completed in mid-2023.
+I am Muhammad Saifullah, a **Full Stack Web Developer** (specializing in **Laravel Projects**). I am also doing A Level in **Computer Science** which will be completed in mid-2023.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2022, I idid a **Programming Course** and learnt **HTML**, **CSS**, **JAVASCRIPT**, **PHP** and **LARAVEL**. I also got started with [**Freelancing**](https://www.fiverr.com/m_saifullah3) recently.
+👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2022, I idid a **Programming Course** and learnt **HTML**, **CSS**, **JAVASCRIPT**, **PHP** and **LARAVEL**.
 
 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **watching movies**, **playing cricket** and **sketching**.
 
