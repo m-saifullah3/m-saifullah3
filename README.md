@@ -29,7 +29,7 @@ Outside the world of tech too, I enjoy pushing myself to develop new skills. My 
 
 ![PHP](https://img.shields.io/badge/PHP-0071C5?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-0071C5?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0071C5?style=for-the-badge&logo=python&logoColor=F7DF1E)
 
 ## 🖥️ Workspace Setup
 
