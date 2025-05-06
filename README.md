@@ -34,9 +34,10 @@ Outside the world of tech too, I enjoy pushing myself to develop new skills. My 
 ## 🖥️ Workspace Setup
 
 ![i9-9th-gen](https://img.shields.io/badge/Intel-Core_i9_9th-6FDA44?style=for-the-badge&logo=intel&logoColor=white)
+![nvidia-quadro](https://img.shields.io/badge/Nvidia-Quadro_T2000-6FDA44?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-6FDA44?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-6FDA44?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![py-charm](https://img.shields.io/badge/Py_Charm-6FDA44?style=for-the-badge&logo=Py-Charm&logoColor=green)
+![py-charm](https://img.shields.io/badge/Py_Charm-6FDA44?style=for-the-badge&logo=Py-Charm&logoColor=white)
 
 ## 🔗 Links
 
