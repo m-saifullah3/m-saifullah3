@@ -17,6 +17,7 @@ Outside the world of tech too, I enjoy pushing myself to develop new skills. My 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=MySQL&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
 
 ### Front-End Development
 
@@ -28,7 +29,7 @@ Outside the world of tech too, I enjoy pushing myself to develop new skills. My 
 
 ![PHP](https://img.shields.io/badge/PHP-0071C5?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-0071C5?style=for-the-badge&logo=laravel&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0071C5?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
 
 ## 🖥️ Workspace Setup
 
