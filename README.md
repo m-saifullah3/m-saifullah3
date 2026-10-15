@@ -41,8 +41,10 @@ Outside the world of tech too, I enjoy pushing myself to develop new skills. My 
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](#)
-[![github](https://img.shields.io/badge/GitHub-5340ff?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/m-saifullah3)
-[![gmail](https://img.shields.io/badge/Gmail-5340ff?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muhammadsaifullah3300@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-5340ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_saifullah3/)
-[![linked-in](https://img.shields.io/badge/Linked_In-5340ff?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-saifullah-491b78262)
+## 🔗 Links
+
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/m-saifullah3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-5340ff?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+<a href="mailto:muhammadsaifullah3300@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-5340ff?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.instagram.com/m_saifullah3/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-5340ff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/muhammad-saifullah-491b78262" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linked_In-5340ff?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
